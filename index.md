@@ -1,42 +1,15 @@
 ## Welcome to Aaron's Website
 
-Hi I'am Aaron an 11 year old passsionate developer I code and make Youtube videos for fun here is the link:https://www.youtube.com/channel/UCI3xcS0XceKXKz6WJFWk6Vg
-Thank you for viewing this page
-### Markdown
+Hi I'am Aaron an 11 year old passsionate developer I code and make Youtube videos for fun here is the link: [https://www.youtube.com/channel/UCI3xcS0XceKXKz6WJFWk6Vg]
+My videos:
+Pillager Outpost Minecraft:[https://www.youtube.com/watch?v=mWWqwlvVeUI]
+Among us But 3D in proggress:[https://www.youtube.com/watch?v=6GgW6IyycsE]
+Dismantling a sony bravura LSD:[https://www.youtube.com/watch?v=EnQ40pDmTGo]
+get free cources on udemy:[https://www.youtube.com/watch?v=Ky1IW8EZ4GU]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aaron03011/My-First-Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+My Github:[https://github.com/Aaron03011]
 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aaron03011/My-First-Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### How to get this on your wallpaper
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+How to get this wallpaper ![2021-03-31 (8).sr]
