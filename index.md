@@ -1,9 +1,8 @@
 ## Welcome to Aaron's Website
 
 Hi I'am Aaron an 11 year old passsionate developer I code and make Youtube videos for fun here is the link:https://www.youtube.com/channel/UCI3xcS0XceKXKz6WJFWk6Vg
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Thank you for viewing this page
+**Hi maya**
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
