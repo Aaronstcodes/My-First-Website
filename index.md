@@ -10,6 +10,3 @@ get free cources on udemy:[https://www.youtube.com/watch?v=Ky1IW8EZ4GU]
 My Github:[https://github.com/Aaron03011]
 
 
-### How to get this on your wallpaper
-
-How to get this wallpaper ![2021-03-31 (8).sr]
